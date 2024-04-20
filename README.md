@@ -1,6 +1,6 @@
 # Arrowhead
 
-Arrowhead is a unibody split 40s keyboard conveiced by elkinoflop and designed by Calvin0563 which supports a 
+Arrowhead is a unibody split 40s keyboard conveiced by elkinoflop and designed by Calvin0563 which supports a center rotary encoder and a bottom row roller encoder.
 
 ## Layout
 
