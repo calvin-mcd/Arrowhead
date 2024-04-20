@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kbd")(type "Legacy")(uri "C:/Users/viva-/Documents/GitHub/libraries/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "mcu")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/kleeb-master/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "swoop")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/Roller Encoder/swoop.kicad_sym")(options "")(descr ""))
+)
