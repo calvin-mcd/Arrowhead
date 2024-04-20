@@ -10,7 +10,7 @@ Arrowhead is a unibody split 40s keyboard conveiced by elkinoflop and designed b
 
 ## Pictures
 
-![](https://github.com/calvin-mcd/Arrowhead/blob/main/Images/top.ong)
+![](https://github.com/calvin-mcd/Arrowhead/blob/main/Images/top.png)
 ![](https://github.com/calvin-mcd/Arrowhead/blob/main/Images/bottom.png)
 
 ## Todo
