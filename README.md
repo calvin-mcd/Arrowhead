@@ -1,6 +1,6 @@
 # Arrowhead
 
-Arrowhead is a unibody split 40s keyboard conveiced by elkinoflop and designed by Calvin0563.
+Arrowhead is a unibody split 40s keyboard conveiced by elkinoflop and designed by Calvin0563 which supports a 
 
 ## Layout
 
@@ -16,6 +16,7 @@ Arrowhead is a unibody split 40s keyboard conveiced by elkinoflop and designed b
 ## Todo
 
 - [ ] order & test pcb
+- [ ] design case
 - [ ] create firmwarre
 
 ## Disclaimer
